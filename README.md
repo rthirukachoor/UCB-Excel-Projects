@@ -25,10 +25,14 @@ The main objective of the project to provide Louis about the compaign outcomes b
     2. Least number of campaign failed in November and most number in May
     3. Interesting to note that the most number of Success and failed campaigns happened in the month of May
     4. The number of canceled campaigns remains almost the same throught the year (on a average of 3)
+    Please refer to the below link that supports my analysis
+    https://github.com/rthirukachoor/UCB-Excel-Projects/blob/main/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
     1. The lower the goal amount the higher the chances of success. When the goal amount is less than 1000, the chance of success is around 75%
     2. Similarly, the higher the goal amount the lower are the chances of success. For eg: When the goal amount $45K to $50k, there was 0% success rate
+    Please refer to the below link that supports my analysis.
+    https://github.com/rthirukachoor/UCB-Excel-Projects/blob/main/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
     1. To decide on the type of graph that would help to visualize the required KPI's
